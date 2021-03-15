@@ -1,7 +1,11 @@
 ## Table of contents
+* [Description](#description)
 * [Index](#index)
 * [Technologies](#technologies)
 * [References](#references)
+
+## Description
+This repository contains some important **Algorithms and Data Structures** implementation in **Python3**. I will update gradually with some more ds&algo in future.
 
 ## Index
 * Data Structure
@@ -38,5 +42,5 @@
 * Jupyter Notebook
 
 ## References
-* youtube.com/watch?v=Mz9BlmST31w&list=PLym69wpbTIIEOesltWGUsVnY9HDWbJit_
-* geeksforgeeks.org
+* www.youtube.com/watch?v=Mz9BlmST31w&list=PLym69wpbTIIEOesltWGUsVnY9HDWbJit_
+* www.geeksforgeeks.org

@@ -35,7 +35,8 @@
 
 	
 ## Technologies
-Documentation is created with:
 * Jupyter Notebook
 
 ## References
+* www.youtube.com/watch?v=Mz9BlmST31w&list=PLym69wpbTIIEOesltWGUsVnY9HDWbJit_
+* geeksforgeeks.org
